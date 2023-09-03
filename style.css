@@ -47,12 +47,7 @@ body {
 
 button {
     align-items: center;
+    font-size: 20px;
 }
 
-.bar {
-	margin: 20px 30px 0px 30px;
-	color: aliceblue;
-	border-radius: 10px;
-	width: 70%;
-	height: 20px;
-	background-color: aliceblue;
+
